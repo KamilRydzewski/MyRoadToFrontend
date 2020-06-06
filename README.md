@@ -12,9 +12,10 @@
 ### 1. Courses
 
 
-| Name/Link  | Description | Ddescription |
+| Source  | Name/Link | Description |
 | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  |
-
+| Udemy  | [HTML and CSS for Beginners<br/> - Build a Website & Launch ONLINE](https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/)  | Basic HTML and CSS course.  |
+| Udemy  | [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) | Basic HTML and CSS course.  |
+| WesBos | [What The Flexbox?!](https://flexbox.io/) | Understanding the fundamentals of Flexbox - rows, columns, axes, wrapping, alignment, centering and layout. |
+| ------------- | ------------- | ------------- |
 
