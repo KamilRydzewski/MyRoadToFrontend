@@ -1,2 +1,2 @@
-###### Kamil Rydzewski - My Road to Frontend
+# Kamil Rydzewski - My Road to Frontend
                 
