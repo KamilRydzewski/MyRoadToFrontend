@@ -37,7 +37,7 @@ Online courses I have finished
 
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
-| [Przystanek Zapiekanki](https://przystanekzapiekanki.pl) | Website for a local business. Designed, created and deployed the whole website entirely by me. Everything made according to customer requirements and adapted to different types of devices (for responsive using CSS Media Queries). | CSS, JavaScript, Gulp.js |
+| [Przystanek Zapiekanki](http://przystanekzapiekanki.pl) | Website for a local business. Designed, created and deployed the whole website entirely by me. Everything made according to customer requirements and adapted to different types of devices (for responsive using CSS Media Queries). | CSS, JavaScript, Gulp.js |
 ### 4. Live workshops
 
 | Name/Link | Description | Technology |
