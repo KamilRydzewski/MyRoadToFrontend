@@ -16,6 +16,8 @@
 | ------------- | ------------- | ------------- |
 | Udemy  | [HTML and CSS for Beginners<br/> - Build a Website & Launch ONLINE](https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/)  | Basic HTML and CSS course.  |
 | Udemy  | [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) | Basic HTML and CSS course.  |
+| Flukeout | [Flukeout](https://flukeout.github.io/) | Small training game to work with css selectors. |
 | WesBos | [What The Flexbox?!](https://flexbox.io/) | Understanding the fundamentals of Flexbox - rows, columns, axes, wrapping, alignment, centering and layout. |
-| ------------- | ------------- | ------------- |
-
+| Flexboxfroggy | [Flexbox froggy](http://flexboxfroggy.com/) | Small training game to better understand how flexbox work. |
+| WesBos | [CSS Grid](https://cssgrid.io/)| Understanding how to work with CSS Grid. |
+| Udemy | [JavaScript Beginner Bootcamp (2020)](https://www.udemy.com/course/javascript-the-basics-for-beginners/) | A course through the basics of JavaScript.  |
