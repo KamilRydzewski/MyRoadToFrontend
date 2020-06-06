@@ -42,7 +42,4 @@ Online courses I have finished
 
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
-| [Bartlomiej Skwira<br> - GIT](https://github.com/BartlomiejSkwira) | An experienced programmer willingly shared his knowledge and organized workshops for several people about version-control system GIT. During the workshops we learned 
-* Basic functions and their use
-* Solving the conflict
-* Create | GIT |
+| [Bartlomiej Skwira<br> - GIT](https://github.com/BartlomiejSkwira) | An experienced programmer willingly shared his knowledge and organized workshops for several people about version-control system GIT. During the workshops we learned - Basic functions and their use, solving the conflicts, create pull requests etc. | GIT |
