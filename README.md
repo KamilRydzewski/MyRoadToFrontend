@@ -1,5 +1,2 @@
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+###### Kamil Rydzewski - My Road to Frontend
                 
