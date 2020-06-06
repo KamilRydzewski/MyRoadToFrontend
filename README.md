@@ -43,3 +43,9 @@ Online courses I have finished
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
 | [Bartlomiej Skwira<br> - GIT](https://github.com/BartlomiejSkwira) | An experienced programmer willingly shared his knowledge and organized workshops for several people about version-control system GIT. During the workshops we learned basic commands and their use, solving the conflicts, create pull requests etc. | GIT |
+### 5. Upcoming
+Things soon to happen or in progress.
+| Name/Link | Description | Technology |
+| ------------- | ------------- | ------------- | 
+| WesBos | [React For Begginers](https://reactforbeginners.com/)| Course from WesBos where we build real time application using firebase. |
+| Project in React - website store | In my free time I create a large online store application. In this project I am learning to create reusable components, manage the state of application and using other React functions. | React, Redux |
