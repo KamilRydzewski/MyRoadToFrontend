@@ -21,3 +21,8 @@
 | Flexboxfroggy | [Flexbox froggy](http://flexboxfroggy.com/) | Small training game to better understand how flexbox work. |
 | WesBos | [CSS Grid](https://cssgrid.io/)| Understanding how to work with CSS Grid. |
 | Udemy | [JavaScript Beginner Bootcamp (2020)](https://www.udemy.com/course/javascript-the-basics-for-beginners/) | A course through the basics of JavaScript.  |
+| WesBos | [JavaScript30](https://javascript30.com/) | Building 30 different apps (basic ES6). |
+| WesBos | [ES6 for Everyone](https://es6.io/) | Course to better understand how to use ES6 and newer versions in JS |
+| Eduweb | [React Basic](https://eduweb.pl/programowanie-i-www/reactjs/react-od-podstaw) | This course introduces react to creating a sample application. (Props, Class, CSS Modules, Context Provider etc.) |
+| Eduweb | [React in practice](https://eduweb.pl/programowanie-i-www/reactjs/react-w-praktyce) | The course shows how to work on a real project by guiding us through it step by step. (Redux, Styled Component, MongoDB, Hooks, React DevTools). |
+
