@@ -38,3 +38,11 @@ Online courses I have finished
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
 | [Przystanek Zapiekanki](https://przystanekzapiekanki.pl) | Website for a local business. Designed, created and deployed the whole website entirely by me. Everything made according to customer requirements and adapted to different types of devices (for responsive using CSS Media Queries). | CSS, JavaScript, Gulp.js |
+### 4. Live workshops
+
+| Name/Link | Description | Technology |
+| ------------- | ------------- | ------------- | 
+| [Bartlomiej Skwira<br> - GIT](https://github.com/BartlomiejSkwira) | An experienced programmer willingly shared his knowledge and organized workshops for several people about version-control system GIT. During the workshops we learned 
+* Basic functions and their use
+* Solving the conflict
+* Create | GIT |
