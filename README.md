@@ -27,12 +27,12 @@ Online courses I have finished
 | Eduweb | [React in practice](https://eduweb.pl/programowanie-i-www/reactjs/react-w-praktyce) | The course shows how to work on a real project by guiding us through it step by step. (Redux, Styled Component, MongoDB, Hooks, React DevTools). |
 ### 2. Educational Projects
 
-| Name/Link | Description | Technology |
-| ------------- | ------------- | ------------- | 
-| [Polar Webpage](https://kamilrydzewski.github.io/Polar-Web---training-webpage/) | One of first training webpages. This website was created from template to practice coding. In this project, I studied and tested how HTML and CSS work, as well as basic JS functions. | HTML, CSS, JavaScript (Basic) |
-| [Joke Search](https://kamilrydzewski.github.io/Joke-Search/) | Application uses API to search jokes by word, add them to favourite bookmark, display this bookmark and set the number of search results. | CSS, JavaScript | 
-| [GDPR consent cookie](https://kamilrydzewski.github.io/GDPR-consent--cookie-project/) |  The application uses Api to download a list of vendors, create modal, blocks scrolling while open,  and displays a privacy policy for each of them with the option of acceptance. The decision is saved in cookies. | CSS, JavaScript | 
-| [Currency Converter](https://kamilrydzewski.github.io/Currency-Converter/)| Currency conversion application. Uses API to get latest currency values and convert the amount we enter. | CSS, JavaScript | 
+| Name/Link | Repository |Description | Technology |
+| ------------- | ------------- | ------------- | ------------- | 
+| [Polar Webpage](https://kamilrydzewski.github.io/Polar-Web---training-webpage/) |  | One of first training webpages. This website was created from template to practice coding. In this project, I studied and tested how HTML and CSS work, as well as basic JS functions. | HTML, CSS, JavaScript (Basic) |
+| [Joke Search](https://kamilrydzewski.github.io/Joke-Search/) | [Code](https://github.com/KamilRydzewski/Joke-Search) | Application uses API to search jokes by word, add them to favourite bookmark, display this bookmark and set the number of search results. | CSS, JavaScript | 
+| [GDPR consent cookie](https://kamilrydzewski.github.io/GDPR-consent--cookie-project/) | [Code](https://github.com/KamilRydzewski/GDPR-consent--cookie-project) | The application uses Api to download a list of vendors, create modal, blocks scrolling while open,  and displays a privacy policy for each of them with the option of acceptance. The decision is saved in cookies. | CSS, JavaScript | 
+| [Currency Converter](https://kamilrydzewski.github.io/Currency-Converter/)| [Code](https://github.com/KamilRydzewski/Currency-Converter) |Currency conversion application. Uses API to get latest currency values and convert the amount we enter. | CSS, JavaScript | 
 ### 3. Commercial Projects
 
 | Name/Link | Description | Technology |
@@ -54,5 +54,5 @@ Things soon to happen or in progress.
 * [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g) - YouTube channel, where are interesting issues related to the world of frontend.
 * [Overnment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg) - The YouTube channel explains many issues about JavaScript.
 ### 7. Contact
-[My LinkedIn](https://www.linkedin.com/in/kamil-rydzewski/)
- Email: kmlrydzewski@gmail.com
+* [My LinkedIn](https://www.linkedin.com/in/kamil-rydzewski/)</br>
+* Email: kmlrydzewski@gmail.com
