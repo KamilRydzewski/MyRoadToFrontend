@@ -35,7 +35,7 @@ Online courses I have finished
 ### 3. Commercial Projects
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
-| [Przystanek Zapiekanki](http://przystanekzapiekanki.pl) | Website for a local business. Designed, created and deployed the whole website entirely by me. Everything made according to customer requirements and adapted to different types of devices (for responsive using CSS Media Queries). | CSS, JavaScript, Gulp.js |
+| [Przystanek Zapiekanki](http://przystanekzapiekanki.pl) | Website for a local business. Designed, created and deployed the whole website entirely by me. Everything made according to customer requirements and adapted to different types of devices (for responsive using CSS Media Queries). | HTML, CSS, JavaScript, Gulp.js |
 ### 4. Live workshops
 Live sessions with a mentor I have attended.
 | Name/Link | Description | Technology |
