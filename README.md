@@ -45,11 +45,11 @@ Online courses I have finished
 | [Bartlomiej Skwira<br> - GIT](https://github.com/BartlomiejSkwira) | An experienced programmer willingly shared his knowledge and organized workshops for several people about version-control system GIT. During the workshops we learned basic commands and their use, solving the conflicts, create pull requests etc. | GIT |
 ### 5. Upcoming
 Things soon to happen or in progress.
-| Name/Link | Description | Technology |
-| ------------- | ------------- | ------------- | 
-| WesBos | [React For Begginers](https://reactforbeginners.com/)| Course from WesBos where we build real time application using firebase. |
-| [Project in React - website store](https://fengo-web.netlify.app/) | In my free time I create a large online store application. In this project I am learning to create reusable components, manage the state of application and using other React functions. | React, Redux |
-| Website for company in Chicago | I am currently in talks with a Chicago client to discuss the details and design the site for his big glass company. | React |
+| Name/Link | Repositories | Description | Technology |
+| ------------- | ------------- | ------------- | ------------- | 
+| WesBos [React For Begginers](https://reactforbeginners.com/)|  | Course from WesBos where we build real time application using firebase. | React, Firebase |
+| [Project in React - website store](https://fengo-web.netlify.app/) | [Code](https://github.com/KamilRydzewski/fengo-web---online-shop) | In my free time I create a large online store application. In this project I am learning to create reusable components, manage the state of application and using other React functions. | React, Redux |
+| Website for company in Chicago |  | I am currently in talks with a Chicago client to discuss the details and design the site for his big glass company. | React |
 ### 6. Sources 
 * [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g) - YouTube channel, where are interesting issues related to the world of frontend.
 * [Overnment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg) - The YouTube channel explains many issues about JavaScript.
