@@ -26,7 +26,6 @@ Online courses I have finished
 | Eduweb | [React Basic](https://eduweb.pl/programowanie-i-www/reactjs/react-od-podstaw) | This course introduces you to React based on creating a sample application. (Props, Class, CSS Modules, Context Provider etc.) |
 | Eduweb | [React in practice](https://eduweb.pl/programowanie-i-www/reactjs/react-w-praktyce) | The course shows how to work on a real project in React by guiding us through it step by step. (Redux, Styled Component, MongoDB, Hooks, React DevTools). |
 ### 2. Educational Projects
-
 | Name/Link | Repository |Description | Technology |
 | ------------- | ------------- | ------------- | ------------- | 
 | [Polar Webpage](https://kamilrydzewski.github.io/Polar-Web---training-webpage/) |  | One of first training webpages. This website was created from template to practice coding. In this project, I studied and tested how HTML and CSS work, as well as basic JS functions. | HTML, CSS, JavaScript (Basic) |
@@ -34,12 +33,11 @@ Online courses I have finished
 | [GDPR consent cookie](https://kamilrydzewski.github.io/GDPR-consent--cookie-project/) | [Code](https://github.com/KamilRydzewski/GDPR-consent--cookie-project) | The application uses Api to download a list of vendors, create modal, blocks scrolling while open,  and displays a privacy policy for each of them with the option of acceptance. The decision is saved in cookies. | CSS, JavaScript | 
 | [Currency Converter](https://kamilrydzewski.github.io/Currency-Converter/)| [Code](https://github.com/KamilRydzewski/Currency-Converter) |Currency conversion application. Uses API to get latest currency values and convert the amount we enter. | CSS, JavaScript | 
 ### 3. Commercial Projects
-
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
 | [Przystanek Zapiekanki](http://przystanekzapiekanki.pl) | Website for a local business. Designed, created and deployed the whole website entirely by me. Everything made according to customer requirements and adapted to different types of devices (for responsive using CSS Media Queries). | CSS, JavaScript, Gulp.js |
 ### 4. Live workshops
-
+Live sessions with a mentor I have attended.
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
 | [Bartlomiej Skwira](https://github.com/BartlomiejSkwira)<br>GIT| An experienced programmer willingly shared his knowledge and organized workshops for several people about version-control system GIT. During the workshops we learned basic commands and their use, solving the conflicts, create pull requests etc. | GIT |
@@ -51,6 +49,7 @@ Things soon to happen or in progress.
 | [Project in React - website store](https://fengo-web.netlify.app/) | [Code](https://github.com/KamilRydzewski/fengo-web---online-shop) | In my free time I create a large online store application. In this project I am learning to create reusable components, manage the state of application and using other React functions. | React, Redux |
 | Website for company in Chicago |  | I am currently in talks with a Chicago client to discuss the details and design the site for his big glass company. | React |
 ### 6. Sources of information 
+Sources from which I get more information about frontend technologies.
 * [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g) - YouTube channel, where are interesting issues related to the world of frontend.
 * [Overnment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg) - The YouTube channel explains many issues about JavaScript.
 ### 7. Contact
