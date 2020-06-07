@@ -7,7 +7,7 @@
 3. [Commercial Projects](https://github.com/KamilRydzewski/MyRoadToFrontend#3-commercial-projects)
 4. [Live workshops](https://github.com/KamilRydzewski/MyRoadToFrontend#4-live-workshops)
 5. [Upcoming](https://github.com/KamilRydzewski/MyRoadToFrontend#5-upcoming)
-6. [Sources](https://github.com/KamilRydzewski/MyRoadToFrontend#6-sources)
+6. [Sources of information](https://github.com/KamilRydzewski/MyRoadToFrontend#6-sources-of-information)
 7. [Contact](https://github.com/KamilRydzewski/MyRoadToFrontend#7-contact)
 
 ### 1. Courses
@@ -50,7 +50,7 @@ Things soon to happen or in progress.
 | WesBos [React For Begginers](https://reactforbeginners.com/)|  | Course from WesBos where we build real time application using firebase. | React, Firebase |
 | [Project in React - website store](https://fengo-web.netlify.app/) | [Code](https://github.com/KamilRydzewski/fengo-web---online-shop) | In my free time I create a large online store application. In this project I am learning to create reusable components, manage the state of application and using other React functions. | React, Redux |
 | Website for company in Chicago |  | I am currently in talks with a Chicago client to discuss the details and design the site for his big glass company. | React |
-### 6. Sources 
+### 6. Sources of information 
 * [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g) - YouTube channel, where are interesting issues related to the world of frontend.
 * [Overnment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg) - The YouTube channel explains many issues about JavaScript.
 ### 7. Contact
