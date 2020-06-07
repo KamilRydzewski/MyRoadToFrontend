@@ -1,6 +1,6 @@
 # Kamil Rydzewski - My Road to Frontend
 ## About:
- This repository was created to track and control my progress as a Frontend developer, organize my path and goals in this field and motivate to continue working. It was inspired by Kamil Krzyk's [F1sherKK-MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI).
+ This repository was created to track and control my progress as a Frontend developer, organize my path and goals in this field and motivate to continue working. It was inspired by Kamil Krzyk's [F1sherKK-MyRoadToAI](https://github.com/FisherKK/F1sherKK-MyRoadToAI) and motivated by [Bartlomiej Skwira](https://github.com/BartlomiejSkwira).
 ## Table of contents:
 1. [Courses](https://github.com/KamilRydzewski/MyRoadToFrontend#1-courses)
 2. [Educational Projects](https://github.com/KamilRydzewski/MyRoadToFrontend#2-educational-projects)
