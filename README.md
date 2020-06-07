@@ -50,3 +50,9 @@ Things soon to happen or in progress.
 | WesBos | [React For Begginers](https://reactforbeginners.com/)| Course from WesBos where we build real time application using firebase. |
 | [Project in React - website store](https://fengo-web.netlify.app/) | In my free time I create a large online store application. In this project I am learning to create reusable components, manage the state of application and using other React functions. | React, Redux |
 | Website for company in Chicago | I am currently in talks with a Chicago client to discuss the details and design the site for his big glass company. | React |
+### 6. Sources 
+* [Hello Roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g) - YouTube channel, where are interesting issues related to the world of frontend.
+* [Overnment](https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg) - The YouTube channel explains many issues about JavaScript.
+### 7. Contact
+[My LinkedIn](https://www.linkedin.com/in/kamil-rydzewski/)
+ Email: kmlrydzewski@gmail.com
