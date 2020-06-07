@@ -26,12 +26,13 @@ Online courses I have finished
 | Eduweb | [React Basic](https://eduweb.pl/programowanie-i-www/reactjs/react-od-podstaw) | This course introduces you to React based on creating a sample application. (Props, Class, CSS Modules, Context Provider etc.) | React |
 | Eduweb | [React in practice](https://eduweb.pl/programowanie-i-www/reactjs/react-w-praktyce) | The course shows how to work on a real project in React by guiding us through it step by step. (Redux, Styled Component, MongoDB, Hooks, React DevTools). | React, Redux, MongoDB| 
 ### 2. Educational Projects
+"Pet projects" that are live, deployed and usable.
 | Name/Link | Repository |Description | Technology |
 | ------------- | ------------- | ------------- | ------------- | 
-| [Polar Webpage](https://kamilrydzewski.github.io/Polar-Web---training-webpage/) |  | One of first training webpages. This website was created from template to practice coding. In this project, I studied and tested how HTML and CSS work, as well as basic JS functions. | HTML, CSS, JavaScript (Basic) |
+| [Currency Converter](https://kamilrydzewski.github.io/Currency-Converter/)| [Code](https://github.com/KamilRydzewski/Currency-Converter) |Currency conversion application. Uses API to get latest currency values and convert the amount we enter. | CSS, JavaScript | 
 | [Joke Search](https://kamilrydzewski.github.io/Joke-Search/) | [Code](https://github.com/KamilRydzewski/Joke-Search) | Application uses API to search jokes by word, add them to favourite bookmark, display this bookmark and set the number of search results. | CSS, JavaScript | 
 | [Cookie Modal<br> for list of vendors](https://kamilrydzewski.github.io/Cookie-Modal-for-list-of-vendors) | [Code](https://github.com/KamilRydzewski/Cookie-Modal-for-list-of-vendors) | The application uses Api to download a list of vendors, create modal, blocks scrolling while open,  and displays a privacy policy for each of them with the option of acceptance. The decision is saved in cookies. | CSS, JavaScript | 
-| [Currency Converter](https://kamilrydzewski.github.io/Currency-Converter/)| [Code](https://github.com/KamilRydzewski/Currency-Converter) |Currency conversion application. Uses API to get latest currency values and convert the amount we enter. | CSS, JavaScript | 
+| [Polar Webpage](https://kamilrydzewski.github.io/Polar-Web---training-webpage/) |  | One of first training webpages. This website was created from template to practice coding. In this project, I studied and tested how HTML and CSS work, as well as basic JS functions. | HTML, CSS, JavaScript (Basic) |
 ### 3. Commercial Projects
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
@@ -40,7 +41,7 @@ Online courses I have finished
 Live sessions with a mentor I have attended.
 | Name/Link | Description | Technology |
 | ------------- | ------------- | ------------- | 
-| [Bartlomiej Skwira](https://github.com/BartlomiejSkwira)<br>GIT| An experienced programmer willingly shared his knowledge and organized workshops for several people about version-control system GIT. During the workshops we learned basic commands and their use, solving the conflicts, create pull requests etc. | GIT |
+| [Bartlomiej Skwira](https://github.com/BartlomiejSkwira)<br>Introduction to GIT fundamentals | An experienced programmer willingly shared his knowledge and organized workshops for several people about version-control system GIT. During the workshops we learned basic commands and their use, solving the conflicts, creating pull requests etc. | GIT |
 ### 5. Upcoming
 Things soon to happen or in progress.
 | Name/Link | Repositories | Description | Technology |
